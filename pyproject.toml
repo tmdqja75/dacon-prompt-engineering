@@ -8,4 +8,5 @@ dependencies = [
     "dspy>=3.0.3",
     "pandas>=2.3.2",
     "python-dotenv>=1.1.1",
+    "scikit-learn>=1.7.2",
 ]
